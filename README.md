@@ -1,1 +1,1 @@
-# potential-couscous
+# project documentation and submission
